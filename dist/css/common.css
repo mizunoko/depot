@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Hiragino TV Sans Rd S";
+    font-weight: normal;
+    src: url("../assets/HiraginoTVSansRdS-W4.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Rounded M+ 1m for ARIB";
+    font-weight: normal;
+    src: url("../assets/rounded-mplus-1m-arib.woff2") format("woff2");
+}
+@font-face {
+    font-family: "TT-ShinMGo-regular";
+    font-weight: normal;
+    src: url("../assets/ShinmarugoR_ARIB.woff2") format("woff2");
+}
+@font-face {
+    font-family: "UDKakugo ARIB R";
+    font-weight: normal;
+    src: url("../assets/UDKakugoARIB-R.woff2") format("woff2");
+}
+@font-face {
+    font-family: "UDMarugo ARIB M";
+    font-weight: normal;
+    src: url("../assets/UDMarugoARIB-M.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Windows TV MaruGothic";
+    font-weight: normal;
+    src: url("../assets/WTVGOTHIC-R.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Windows TV FutoMaruGothic";
+    font-weight: normal;
+    src: url("../assets/WTVGOTHIC-RB.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Windows TV Gothic";
+    font-weight: normal;
+    src: url("../assets/WTVGOTHIC-S.woff2") format("woff2");
+}
